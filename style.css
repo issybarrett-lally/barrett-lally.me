@@ -1,12 +1,12 @@
 html {
-	background-color: #990000;
+	background-color: ##F96C4C;
 	margin: 2.5px;
 	margin-right: 400px;
 	margin-left: 400px;
 }
 
 .resource {
-	background-color: #990000;
+	background-color: ##F96C4C;
 	margin: 2.5px;
 	/*margin-right: 500px;
 	margin-left: 500px;*/
@@ -80,7 +80,7 @@ p {
 
 .sub_title {
 	font-family: "Lato", sans-serif;
-	color: #990000;
+	color: ##F96C4C;
 	font-size: 1.2em;
 	font-weight: normal;
 	letter-spacing: 2px;
@@ -97,7 +97,7 @@ ul {
 @media only screen and (max-width: 1000px) {
 
 	html {
-		background-color: #990000;
+		background-color: ##F96C4C;
 		margin: 10px;
 	}
 

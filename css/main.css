@@ -38,6 +38,7 @@ body{
   background: orange;
   width: 100px;
   height: 100px;
+  right: 20px;    // 20px relative to the most-right of parent
 }
 
 

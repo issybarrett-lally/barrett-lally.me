@@ -27,7 +27,7 @@ body{
 
 
 .container {
-	position: relative;
+	position: absolute;
 	padding-top: 6px;
 	padding-right: 85px;
 	padding-left: 85px;

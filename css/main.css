@@ -37,11 +37,11 @@ body{
 .box-orange {
   position: absolute;
   background: orange, 0.0;
-  width: 220px;
-  height: 300px;
-  right: 20px;    // 20px relative to the most-right of parent
+  width: 120px;
+  height: 200px;
+  left: 20px;    // 20px relative to the most-left of parent
 	.twitter-timeline {
-	max-width: 40%;
+	max-width: 20%;
 	margin: 0 auto;
 	b;	
 	}

@@ -38,9 +38,9 @@ body{
   background: orange, 0.0;
   width: 120px;
   height: 200px;
-  left: 20px; // 10px relative to the most-left of parent
+  left: 20px; // 2px relative to the most-left of parent
 	.twitter-timeline {
-	max-width: 5%;
+	max-width: 2%;
 	margin: 0 auto;
 	b;	
 	}

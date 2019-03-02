@@ -109,31 +109,6 @@ ul {
 	text-align: left;
 }
 
-
-
-
-.footer-social-links{
-    font-size: 14px;
-  text-align: center;
-  margin-top: 20%;
-}
-.footer-social-links a{
-    width: 25px;
-    height: 25px;
-    line-height: 25px !important;
-    position: relative;
-    margin: 0 5px;
-    text-align: center;
-    display: inline-block;
-    color: #111;
-}
-.footer-social-links a i,
-.footer-social-links a span{
-    position: relative;
-    top: 2px;
-    left: 1px; 
-}
-
 @media only screen and (max-width: 1000px) {
 
 	html {
